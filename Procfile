@@ -1,1 +1,1 @@
-web: gunicorn wellness_beyond_40.wsgi
+web: gunicorn wellness-beyond-40.wsgi

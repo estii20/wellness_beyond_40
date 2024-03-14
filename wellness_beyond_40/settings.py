@@ -63,7 +63,7 @@ ROOT_URLCONF = 'wellness_beyond_40.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [TEMPLATES_DIR],
+        'DIRS': [TEMPLATES],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
