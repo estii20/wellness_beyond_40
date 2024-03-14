@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-estii20-wellnessbeyond4-8vx0xtwb9dq.ws-eu110.gitpod.io', 'localhost', 'wellness-beyond-40-7cba242bf822.herokuapp.com']
+ALLOWED_HOSTS = ['8000-estii20-wellnessbeyond4-8vx0xtwb9dq.ws-eu110.gitpod.io', 'localhost', 'wellness-beyond-40.herokuapp.com']
 
 
 # Application definition
